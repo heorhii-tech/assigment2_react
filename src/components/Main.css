@@ -1,0 +1,13 @@
+.container {
+    width: 80%;
+    margin: auto;
+    text-align: center;
+}
+.container p {
+    font-size: 22px;
+}
+.container button{
+
+    padding: 6px;
+
+}
